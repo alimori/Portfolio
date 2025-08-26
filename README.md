@@ -29,8 +29,8 @@ https://github.com/alimori/shopping-app
 8- Nx monorepo (Consists of several Angular apps with different themes) | Angular
 https://github.com/alimori/nx-boilerplate
 
-9- https://github.com/alimori/Nationality-Guess-Game
-A full stack app implement a game to guess nationality of images of people |  Angular + .Net
+9- A full stack app implement a game to guess nationality of images of people |  Angular + .Net
+https://github.com/alimori/Nationality-Guess-Game
 
 10- Amazona ECommerce Website | React Js
 https://github.com/alimori/amazona-basir
